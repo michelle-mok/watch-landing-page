@@ -8,7 +8,7 @@ A landing page for a fictional limited-edition collector's watch.
 
 ## What it does
 
-- **Scroll-driven product rotation.** The watch rotates through 1 turn full continuously as the user scrolls down the page, allowing them to see the watch from every side. The motion is eased so that it glides instead of jumping.
+- **Scroll-driven product rotation.** The watch rotates through one turn full continuously as the user scrolls down the page, allowing them to see the watch from every side. The motion is eased so that it glides instead of jumping.
 
 - **Three flowing sections.** _Presence_, _Made, not Moulded_ and _Three Hundred_ fade in and out beside the watch, ending with a **Register** call to action.
 
